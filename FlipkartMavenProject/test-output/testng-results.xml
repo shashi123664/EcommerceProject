@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Home page is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Groceries page is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Product is successfully added to the wishlist]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="52765" started-at="2020-04-05T09:08:05Z" finished-at="2020-04-05T09:08:58Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="52765" started-at="2020-04-05T09:08:05Z" finished-at="2020-04-05T09:08:58Z">
+      <class name="com.flipkartTestScript.Add_The_Product_To_Wishlist">
+        <test-method status="PASS" signature="configBC()[pri:0, instance:com.flipkartTestScript.Add_The_Product_To_Wishlist@4520ebad]" name="configBC" is-config="true" duration-ms="21586" started-at="2020-04-05T14:38:05Z" finished-at="2020-04-05T14:38:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method status="PASS" signature="configBM()[pri:0, instance:com.flipkartTestScript.Add_The_Product_To_Wishlist@4520ebad]" name="configBM" is-config="true" duration-ms="5786" started-at="2020-04-05T14:38:27Z" finished-at="2020-04-05T14:38:33Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Home page is displayed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method status="PASS" signature="Add_The_Product_To_Wishlist()[pri:0, instance:com.flipkartTestScript.Add_The_Product_To_Wishlist@4520ebad]" name="Add_The_Product_To_Wishlist" duration-ms="23733" started-at="2020-04-05T14:38:33Z" finished-at="2020-04-05T14:38:56Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Groceries page is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Product is successfully added to the wishlist]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Add_The_Product_To_Wishlist -->
+        <test-method status="PASS" signature="configAM()[pri:0, instance:com.flipkartTestScript.Add_The_Product_To_Wishlist@4520ebad]" name="configAM" is-config="true" duration-ms="397" started-at="2020-04-05T14:38:56Z" finished-at="2020-04-05T14:38:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method status="PASS" signature="configAC()[pri:0, instance:com.flipkartTestScript.Add_The_Product_To_Wishlist@4520ebad]" name="configAC" is-config="true" duration-ms="1233" started-at="2020-04-05T14:38:57Z" finished-at="2020-04-05T14:38:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAC -->
+      </class> <!-- com.flipkartTestScript.Add_The_Product_To_Wishlist -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
